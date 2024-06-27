@@ -8,13 +8,7 @@
 I'm **Adil Sayyed** & I am pursuing my Bachelor's From [IIT Guwahati](https://www.iitg.ac.in/) .
 
 - 📫 How to reach me **r.sayyed@iitg.ac.in** / **adilsayyed146@gmail.com**
-<p>
-  <h4>My Projects</h4>
-   - <br/>
-   - <br/>
-   - <br/>
-   - <br/>
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/addilsayyed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
