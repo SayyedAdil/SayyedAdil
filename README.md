@@ -1,4 +1,4 @@
-<h1 align="center">Hey everyone!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> , I'm Adil Sayyed </h1>
+<h1 align="center">Hey everyone!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px">I'm Adil Sayyed </h1>
 <p align="center">
   
   
