@@ -10,10 +10,10 @@ I'm **Adil Sayyed** & I am pursuing my Bachelor's From [IIT Guwahati](https://ww
 - 📫 How to reach me **r.sayyed@iitg.ac.in** / **adilsayyed146@gmail.com**
 <p>
   <h4>My Projects</h4>
-   - 
-   - 
-   - 
-   - 
+   - <br/>
+   - <br/>
+   - <br/>
+   - <br/>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
