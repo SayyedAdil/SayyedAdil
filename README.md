@@ -5,7 +5,7 @@
 
 </p>
 
-My name is **Adil Sayyed** & I am pursuing my Bachelor's From [IIT Guwahati](https://www.iitg.ac.in/) .
+I'm **Adil Sayyed** & I am pursuing my Bachelor's From [IIT Guwahati](https://www.iitg.ac.in/) .
 
 - 📫 How to reach me **r.sayyed@iitg.ac.in**
 
