@@ -1,7 +1,7 @@
 <h1 align="center">Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  height="29px"> , I'm Adil Sayyed </h1>
 <p align="center">
   
-   <img src="https://readme-typing-svg.herokuapp.com/?color=%23E22FE4&center=true&width=300&height=45&lines=Learning+Development;Machine+Learning;C+o+d+i+n+g+i+s+L+O+v+e;Exchanging+Knowledge;Nice+to+meet+you+...">
+  
 
 </p>
 
